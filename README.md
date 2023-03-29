@@ -1,4 +1,7 @@
 # konversi_suhu
+2.0
+![image](https://user-images.githubusercontent.com/92065895/228415383-51d5d59f-b7d0-41c4-9a82-9f755fe62aed.png)
+
 Mode Dekstop
 ![Screenshot 2023-03-16 100836](https://user-images.githubusercontent.com/92065895/225503287-da12e76e-d5e7-4121-b3f3-72ab5edc277b.png)
 Mode Android
