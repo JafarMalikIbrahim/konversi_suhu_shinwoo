@@ -7,7 +7,7 @@ Update Terbaru
 Mode Dekstop
 ![Screenshot 2023-03-16 100836](https://user-images.githubusercontent.com/92065895/225503287-da12e76e-d5e7-4121-b3f3-72ab5edc277b.png)
 Mode Android
-![Screenshot 2023-03-16 100913](https://user-images.githubusercontent.com/92065895/225503576-3ad1299b-69c1-4a67-a5ab-b284c3c4f372.png)
+
 
 A new Flutter project.
 
