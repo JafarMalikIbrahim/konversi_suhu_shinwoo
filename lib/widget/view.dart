@@ -37,13 +37,12 @@ class _ViewState extends State<View> {
       _inputUser = double.parse(etInput.text);
         if (_newValue == "Kelvin"){
         _result = _inputUser + 273;
-        listViewItem.add(_newValue.toString());
         }else{
         _result = (4 / 5) * _inputUser;
-        listViewItem.add(_newValue.toString());
     }
         });
-        listViewItem.add(_result.toString());
+         listViewItem.add(_newValue.toString() + " : " + _result.toStringAsFixed(2));
+  
   }
 
   @override
