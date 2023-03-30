@@ -1,6 +1,7 @@
 # konversi_suhu
 Update Terbaru
-![image](https://user-images.githubusercontent.com/92065895/228713767-50de6003-b582-4698-80e4-1b4484ae7b7b.png)
+![image](https://user-images.githubusercontent.com/92065895/228716628-751be530-a64f-4806-a816-8fcb601771f6.png)
+
 
 2.0
 ![image](https://user-images.githubusercontent.com/92065895/228415383-51d5d59f-b7d0-41c4-9a82-9f755fe62aed.png)
